@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://stronky.visualstudio.com/CID/_apis/build/status/CID-.NET%20Desktop-CI?branchName=master)](https://stronky.visualstudio.com/CID/_build/latest?definitionId=1&branchName=master)
+
 For information on how to use this repository, see docs for [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
